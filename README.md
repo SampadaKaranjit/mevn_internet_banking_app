@@ -1,4 +1,4 @@
-# MEVN Internet Banking APP
+# MEVN Internet Banking application
 
 > A simple app built with the MEVN stack & Typescript
 
